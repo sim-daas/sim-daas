@@ -49,7 +49,7 @@ I am currently a 1st-year B.Tech student with a strong interest in computer visi
 ## How to Reach Me
 
 - **Email:** aitechmanml@gmail.com
-- **LinkedIn:** [linkedin.com/in/rahul](https://linkedin.com/in/rahul)
+- **LinkedIn:** [linkedin.com/in/rahul](https://www.linkedin.com/in/i-a7b715324)
 
 Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project. I'm always excited to learn new things and work on interesting problems!
 
