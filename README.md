@@ -1,4 +1,4 @@
-# Helll everyone, I'm Ishaan! 👋
+# Hello everyone, I'm Ishaan! 👋
 
 I am currently a 1st-year B.Tech student with a strong interest in computer vision, machine learning, and robotics. My GitHub repositories showcase a variety of projects that reflect my skills and passion for these fields. Here is an overview of what I have been working on:
 
