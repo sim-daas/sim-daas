@@ -1,74 +1,57 @@
 # Hello everyone, I'm Ishaan! 👋
 
-I am currently a 1st-year B.Tech student with a strong interest in computer vision, machine learning, and robotics. My GitHub repositories showcase a variety of projects that reflect my skills and passion for these fields. Here is an overview of what I have been working on:
+AI & Robotics engineer passionate about fusing deep learning, Linux, and real-world autonomy. Currently a DSAI undergrad at IIIT Naya Raipur and Backend AI Engineer at Sigmoyd.in, I focus on robotics simulations, multimodal LLMs, and scalable deployment pipelines. My repositories demonstrate extensive hands-on work with Docker, Jetson, ROS2, and NVIDIA DeepStream for advanced perception and control.
 
-## Projects and Skills
+## 🚀 Recent Projects
 
-### [Driver Drowsiness Detection](https://github.com/sim-daas/driver-drowsiness-detector)
-- **Skills:** YOLOv11, OpenCV, PyTorch, Python
-- **Description:** A system to detect driver drowsiness using machine learning techniques to enhance road safety. The system employs a camera to monitor the driver's facial features and triggers an alert if drowsiness is detected.
+### [DroneSim: Autonomous Drone Missions](https://github.com/sim-daas/dronesim)
+- **Skills:** Python, ROS2, PX4, Gazebo, Docker, C++, Computer Vision  
+- **Description:** A complete simulation environment for robust autonomous drone missions simulating battery interruptions, precision vision-based landings, and recovery logic—all containerized for reproducible workflows.
 
-### [AI Sentry Gun](https://github.com/sim-daas/sentry-turret)
-- **Skills:** YOLOv11, Arduino, Computer Vision, Python, C++
-- **Description:** An autonomous sentry gun system that uses computer vision and machine learning to detect, track, and aim at faces or objects in real-time. The system calculates the position of the target and controls servo motors for precise aiming.
+### [Traffic Analytics Dashboard](https://github.com/sim-daas/traffic-analytics)
+- **Skills:** Python, NVIDIA DeepStream, YOLOv8, ROS2, PyQt6, Docker  
+- **Description:** Real-time traffic analysis with object detection, lane compliance, and dashboard visualization. Employs ROS2 integration for modular deep learning analytics on video streams.
 
-### [MultiModal RAG Chatbot](https://github.com/sim-daas/multimodal-rag)
-- **Skills:** FastAPI, Ollama, RAG, Multimodal Processing, Python
-- **Description:** A powerful, extensible chatbot with multimodal capabilities, built with FastAPI and Ollama. It supports text, image, and audio processing, enhancing responses with relevant context from a document knowledge base or web search.
+### [Multimodal RAG System](https://github.com/sim-daas/multimodal-rag)
+- **Skills:** FastAPI, Python, LangChain, Retrieval Augmented Generation, Vector Databases, Docker  
+- **Description:** Combines text, image, and audio with RAG pipelines for rich context-aware chatbot responses. Built for flexibility and extensibility in diverse applications.
 
-### [ROS2 and NVIDIA DeepStream Integration](https://github.com/sim-daas/roswithai)
-- **Skills:** ROS2, Gazebo, NVIDIA DeepStream, YOLOv8, Docker, Python
-- **Description:** Integrates ROS2, Gazebo, and NVIDIA DeepStream for advanced tracking and computer vision tasks. The setup supports real-time video analytics with YOLOv8-based inference within a ROS2 control framework.
+### [ROS2 + DeepStream Integration](https://github.com/sim-daas/ros2_deepstream)
+- **Skills:** ROS2, NVIDIA DeepStream, Jetson, Docker, YOLOv8  
+- **Description:** Custom GPU-optimized ROS2 nodes for streaming perception on Jetson hardware. Enables scalable, real-time robotics vision with state-of-the-art models.
 
-### [System Setup for Robotics](https://github.com/sim-daas/systemsetup)
-- **Skills:** Linux System Configuration, Neovim, Alacritty, Zsh, Python Libraries
-- **Description:** Customized my Linux setup with tools like Neovim, Alacritty, Zsh, and various productivity-enhancing software for robotics and simulation projects.
+### [Sentry Turret & Robobase](https://github.com/sim-daas/sentry-turret) | [Robobase](https://github.com/sim-daas/robobase)
+- **Skills:** Arduino, Python, ROS2, C++  
+- **Description:** Mechatronics projects blending embedded robotics, computer vision, and automated targeting or modular locomotion, demonstrating systems integration from hardware to software.
 
-## Skills
+## 🛠️ Key Skills
 
-- **Programming Languages:** Python, C++, bash
-- **Frameworks and Libraries:** OpenCV, PyTorch, FastAPI, ROS2, Docker, Deepstream SDK
-- **Tools and Software:** Neovim, Alacritty, Zsh, i3, Polybar, Picom, Docker, Conda, Vscode
-- **Machine Learning and Computer Vision:** YOLOv11, Langchain, Chroma, Ollama
-- **Robotics:** Isaac Sim, ROS2, Gazebo, Arduino, Onshape
+- **Programming Languages:** Python, C++, Bash
+- **Frameworks/Libraries:** PyTorch, OpenCV, FastAPI, ROS2, LangChain, DeepStream SDK
+- **Dev & Automation Tools:** Docker, Conda, Git, Neovim, Alacritty, Zsh, i3
+- **Hardware & Simulation:** NVIDIA Jetson (TX2/Orin), ROS2, Gazebo, Arduino, Onshape, PX4
+- **AI/ML:** YOLOv8, RAG, LLM integration, Vector DBs
 
-## Current Focus
+## 🔬 Current Focus
 
-- **Learning:** Deepening my knowledge in advanced computer vision techniques and robotics.
-- **Projects:** Working on integrating machine learning models with real-time systems and enhancing robotics simulations.
-- **Collaboration:** Looking to collaborate on projects involving computer vision, machine learning, and robotics.
+- Extending robotic simulation environments for multi-agent intelligence.
+- Deploying deep learning pipelines on embedded (Jetson) and cloud platforms.
+- Researching real-time vision, cross-modal retrieval, and closed-loop autonomy.
 
-## Goals
+## 🌟 Goals
 
-- **Goals:**
-  - Complete my current projects and publish the results.
-  - Contribute to open-source projects and expand my GitHub portfolio.
-  - Improve my skills in Python and machine learning frameworks.
-  - Develop advanced autonomous systems combining computer vision and robotics.
+- Complete my Autonomous wireless charging patrolling drone project.
+- Collaborate on open-source research in AI, perception, and autonomous systems.
+- Gain deeper expertise in stereo cameras and manipulators.
 
-## How to Reach Me
+## 📫 How to Reach Me
 
-- **Email:** aitechmanml@gmail.com
+- **Email:** [aitechmanml@gmail.com](mailto:aitechmanml@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Ishaan](https://www.linkedin.com/in/i-a7b715324)
+- **GitHub:** [github.com/sim-daas](https://github.com/sim-daas/)
 
-Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project. I'm always excited to learn new things and work on interesting problems!
+Feel free to explore my repositories or reach out for collaboration—always excited to connect with others passionate about intelligent robotics and impactful AI.
 
-### Fun Fact
+### 🎶 Fun Fact
 
-- I enjoy customizing my Linux setup and trying out new tools to enhance my productivity and workflow.
-
-
-<!--
-**sim-daas/sim-daas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dedicated sitarist, blending music theory and algorithmic thinking into my approach to robotics and engineering!
