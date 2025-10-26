@@ -1,4 +1,4 @@
-# Hello everyone, I'm Ishaan! 👋
+# Hello everyone, I'm Ishaan!
 
 AI & Robotics engineer passionate about fusing deep learning, Linux, and real-world autonomy. Currently a DSAI undergrad at IIIT Naya Raipur and Backend AI Engineer at Sigmoyd.in, I focus on robotics simulations, multimodal LLMs, and scalable deployment pipelines. My repositories demonstrate extensive hands-on work with Docker, Jetson, ROS2, and NVIDIA DeepStream for advanced perception and control.
 
