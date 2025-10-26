@@ -46,8 +46,8 @@ AI & Robotics engineer passionate about fusing deep learning, Linux, and real-wo
 
 ## 📫 How to Reach Me
 
-- **Email:** [aitechmanml@gmail.com](mailto:aitechmanml@gmail.com)
-- **LinkedIn:** [linkedin.com/in/Ishaan](https://www.linkedin.com/in/i-a7b715324)
+- **Email:** [aitechmanml@gmail.com](mailto:sangnakabhiyantriki@gmail.com)
+- **LinkedIn:** [linkedin.com/in/Ishaan](https://www.linkedin.com/in/-ishaan-singh-)
 - **GitHub:** [github.com/sim-daas](https://github.com/sim-daas/)
 
 Feel free to explore my repositories or reach out for collaboration—always excited to connect with others passionate about intelligent robotics and impactful AI.
